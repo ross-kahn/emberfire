@@ -1,6 +1,6 @@
 {
   "name": "emberfire",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "The officially supported adapter for using Firebase with Ember",
   "keywords": [
     "ember-addon",
@@ -34,7 +34,7 @@
     "broccoli-merge-trees": "^3.0.2",
     "ember-auto-import": "^1.5.2",
     "ember-cli-babel": "^7.12.0",
-    "firebase": "^7.0.0"
+    "firebase": "^9.15.0"
   },
   "devDependencies": {
     "@types/ember": "^3.1.1",
